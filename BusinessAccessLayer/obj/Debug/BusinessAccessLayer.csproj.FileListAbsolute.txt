@@ -1,0 +1,10 @@
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\timis\OneDrive\Desktop\School\Spring 2022\CS 3280\FinalProject\FinalProject\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
